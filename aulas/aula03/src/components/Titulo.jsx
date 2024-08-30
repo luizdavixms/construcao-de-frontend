@@ -1,6 +1,6 @@
 function Titulo(){
     return (
-      <h1>OLa</h1>
+      <h1>Ola</h1>
     )
   }
 
